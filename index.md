@@ -34,3 +34,4 @@
 ---
 <p style="font-size:11px">
 
+  <center>© 2022 Jasmine Lo. Powered by Jekyll and the Minimal Theme.</center>
