@@ -2,18 +2,18 @@
 
 ---
 
-### Category Name 1 
+### Data Visualization
 
-[Project 1 Title](/sample_page)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
-
----
-[Project 2 Title](/pdf/sample_presentation.pdf)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[Trending NFTs](/sample_page)
+<img src="/Users/jasminelo/Desktop/data/Trending NFTs.png"/>
 
 ---
-[Project 3 Title](http://example.com/)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[Sales Performance](/pdf/sample_presentation.pdf)
+<img src="/Users/jasminelo/Desktop/data/Sales Performance report.png"/>
+
+---
+[World Happiness](http://example.com/)
+<img src="/Users/jasminelo/Desktop/data/World Happiness.png"/>
 
 ---
 
