@@ -5,15 +5,15 @@
 ### Data Visualization
 
 [Trending NFTs](/sample_page)
-<img src="/Users/jasminelo/Desktop/data/Trending NFTs.png"/>
+<img src="Trending NFTs.png"/>
 
 ---
 [Sales Performance](/pdf/sample_presentation.pdf)
-<img src="/Users/jasminelo/Desktop/data/Sales Performance report.png"/>
+<img src="Sales Performance report.png"/>
 
 ---
 [World Happiness](http://example.com/)
-<img src="/Users/jasminelo/Desktop/data/World Happiness.png"/>
+<img src="World Happiness.png"/>
 
 ---
 
